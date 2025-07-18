@@ -8,6 +8,9 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+  --tictac-primary: #1976D2;
+  --tictac-secondary: #C2185B;
+  --tictac-accent: #FFEB3B;
 }
 
 [data-theme="dark"] {
